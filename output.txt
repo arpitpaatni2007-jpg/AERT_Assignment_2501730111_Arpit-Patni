@@ -1,0 +1,48 @@
+
+FACTORIAL TESTS
+fact(0) = 1
+fact(1) = 1
+fact(5) = 120
+fact(10) = 3628800
+
+FIBONACCI TESTS
+
+For n = 5
+Naive = 5
+Naive calls = 15
+Memo = 5
+Memo calls = 9
+
+For n = 10
+Naive = 55
+Naive calls = 177
+Memo = 55
+Memo calls = 19
+
+For n = 20
+Naive = 6765
+Naive calls = 21891
+Memo = 6765
+Memo calls = 39
+
+For n = 30
+Naive = 832040
+Naive calls = 2692537
+Memo = 832040
+Memo calls = 59
+
+TOWER OF HANOI (n=3)
+Move disk 1 from A to C
+Move disk 2 from A to B
+Move disk 1 from C to B
+Move disk 3 from A to C
+Move disk 1 from B to A
+Move disk 2 from B to C
+Move disk 1 from A to C
+
+BINARY SEARCH TESTS
+Search 7: 3
+Search 1: 0
+Search 13: 6
+Search 2: -1
+Search in empty list: -1
